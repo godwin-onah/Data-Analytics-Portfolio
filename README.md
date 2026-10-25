@@ -1,4 +1,4 @@
-# Hi, I'm Godwin Chidiebere Onah 👋
+# Hi, I'm Godwin Onah 👋
 ### Data Analyst | Bridging Commercial Banking & Data-Driven Insights
 
 Welcome to my professional data analytics portfolio! With a strong foundation in commercial banking, sales, and relationship management, I leverage data to uncover customer behavior, optimize sales performance, and drive strategic business decisions. 
