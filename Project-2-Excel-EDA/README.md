@@ -21,22 +21,22 @@ Raw banking extracts often contain data quality issues that distort reporting. T
 Using Excel Pivot Tables, the portfolio was aggregated to uncover critical retail banking insights:
 
 ### 1. Overall Portfolio Scale & Asset Distribution
-* The bank's total active portfolio volume stands at **₦90,800,000** across 50 loan records[cite: 7].
-* **Active Loans:** ₦61,350,000 (67.6% of the portfolio)[cite: 7].
-* **Closed/Repaid Loans:** ₦13,300,000 (14.6%)[cite: 7].
-* **Defaulted Loans (Risk Exposure):** ₦16,150,000 (17.8%)[cite: 7].
+* The bank's total active portfolio volume stands at **₦90,800,000** across 50 loan records.
+* **Active Loans:** ₦61,350,000 (67.6% of the portfolio).
+* **Closed/Repaid Loans:** ₦13,300,000 (14.6%).
+* **Defaulted Loans (Risk Exposure):** ₦16,150,000 (17.8%).
 
 ### 2. Regional Branch Concentration & Revenue Drivers
-* **Lagos Island** is the top-performing branch by volume, commanding **₦33,100,000** in total loans (₦25.4M active, ₦2.6M closed, ₦5.1M default)[cite: 7].
-* **Abuja** follows closely as the secondary primary growth driver with **₦30,600,000** in total portfolio value (₦20.55M active, ₦6.5M closed, ₦3.55M default)[cite: 7].
-* Together, Lagos Island and Abuja represent over **69%** of the bank's total asset exposure[cite: 7].
+* **Lagos Island** is the top-performing branch by volume, commanding **₦33,100,000** in total loans (₦25.4M active, ₦2.6M closed, ₦5.1M default).
+* **Abuja** follows closely as the secondary primary growth driver with **₦30,600,000** in total portfolio value (₦20.55M active, ₦6.5M closed, ₦3.55M default).
+* Together, Lagos Island and Abuja represent over **69%** of the bank's total asset exposure.
 
 ### 3. Credit Risk & Non-Performing Loan (NPL) Hotspots
-* **Lagos Island** carries the highest default volume at **₦5,100,000**, followed by **Port Harcourt** at **₦4,550,000** (totaling ₦18,650,000 with ₦14.1M active)[cite: 7]. 
+* **Lagos Island** carries the highest default volume at **₦5,100,000**, followed by **Port Harcourt** at **₦4,550,000** (totaling ₦18,650,000 with ₦14.1M active). 
 * *Risk Takeaway:* High-volume branches require stricter upfront credit risk vetting and proactive early-warning collections protocols.
 
 ### 4. Lifecycle & Origination Trends
-* **Ikeja** shows a mature or slowing loan book, showing a lower active balance (**₦1,300,000**) compared to a high volume of closed/repaid loans (**₦4,200,000**) out of its ₦8,450,000 total book, indicating an urgent need for new loan acquisition campaigns by the sales team[cite: 7].
+* **Ikeja** shows a mature or slowing loan book, showing a lower active balance (**₦1,300,000**) compared to a high volume of closed/repaid loans (**₦4,200,000**) out of its ₦8,450,000 total book, indicating an urgent need for new loan acquisition campaigns by the sales team.
 
 ---
 
